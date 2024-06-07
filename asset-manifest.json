@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Munchunnce/shikha-vimal/static/css/main.07dc1c21.css",
-    "main.js": "/Munchunnce/shikha-vimal/static/js/main.9eeb3d28.js",
-    "static/js/453.38593df0.chunk.js": "/Munchunnce/shikha-vimal/static/js/453.38593df0.chunk.js",
-    "index.html": "/Munchunnce/shikha-vimal/index.html",
-    "main.07dc1c21.css.map": "/Munchunnce/shikha-vimal/static/css/main.07dc1c21.css.map",
-    "main.9eeb3d28.js.map": "/Munchunnce/shikha-vimal/static/js/main.9eeb3d28.js.map",
-    "453.38593df0.chunk.js.map": "/Munchunnce/shikha-vimal/static/js/453.38593df0.chunk.js.map"
+    "main.css": "/shikha-vimal/static/css/main.07dc1c21.css",
+    "main.js": "/shikha-vimal/static/js/main.8fddb364.js",
+    "static/js/453.38593df0.chunk.js": "/shikha-vimal/static/js/453.38593df0.chunk.js",
+    "index.html": "/shikha-vimal/index.html",
+    "main.07dc1c21.css.map": "/shikha-vimal/static/css/main.07dc1c21.css.map",
+    "main.8fddb364.js.map": "/shikha-vimal/static/js/main.8fddb364.js.map",
+    "453.38593df0.chunk.js.map": "/shikha-vimal/static/js/453.38593df0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07dc1c21.css",
-    "static/js/main.9eeb3d28.js"
+    "static/js/main.8fddb364.js"
   ]
 }
