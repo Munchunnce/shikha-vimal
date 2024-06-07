@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/shikha-vimal">
       <Navbar/>
         <Routes>
           <Route path='/' element={<Home/>}></Route>
