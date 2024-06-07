@@ -5,9 +5,84 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 20px;
+  background: whitesmoke;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card{
+  background: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+
+}
+
+.productsWrapper{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+.btn{
+  border: none;
+  outline: none;
+  background: #764abc;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.btn:hover {
+  background: #513282;
+}
+
+.btn.clicked {
+  background: green;
+}
+.btn1{
+  border: none;
+  outline: none;
+  background: #764abc;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn1:hover {
+  background: rgb(219, 64, 64);
+}
+
+.navLink{
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+
+
+.heading{
+  padding: 25px 0;
+}
+
+.cartCount{
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 40px;
+}
+.cartCard{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 14px;
+  border-radius: 5px;
 }
